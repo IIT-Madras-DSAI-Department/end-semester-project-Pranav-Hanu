@@ -8,7 +8,7 @@ This repository is the **starter** for your End Semester Project submission in G
 > **Scope (as per assignment brief):**
 > Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
 
----
+---This repository consists code implementation for building a model on MNIST dataset. 
 
 **Important Note:** 
 1. TAs will evaluate using the `.py` file only.
@@ -20,13 +20,14 @@ This repository is the **starter** for your End Semester Project submission in G
 
 * Describe your repository structure here. Explain about overall code organization.
 
----
+--- My algorithms.py file is a file which contains all the definitions of algorithms i have implemented for the model
+But the main file is an ipynb file instead of python file. I couldn't figure out converting my ipynb to py in time, So i left it as it is, sorry for that
 
 ## 📦 Installation & Dependencies
 
 * Mention all the related instructions for installation of related packages for running your code here.
 
----
+--- You need to install numpy, pandas, collections
 
 ## ▶️ Running the Code
 
